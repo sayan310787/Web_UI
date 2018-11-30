@@ -1,0 +1,24 @@
+.hide-display {
+                display: none !important;
+}
+
+.upload-button {
+                margin-left: 37%;
+}
+
+.action-button {
+                line-height: 1.42857143;
+}
+
+.capitalize-word {
+                text-transform:capitalize;
+}
+
+.remove-cat-filter {
+    cursor:pointer;
+                margin-right:5px;
+}
+
+.upload-button {
+                cursor:pointer;
+}
